@@ -3,6 +3,9 @@
 
 
 # Machine Learning
+* writing your first machine learning program
+* writing your first machine learning program using java
+* https://www.analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/
 * https://www.geeksforgeeks.org/getting-started-machine-learning/
 * https://machinelearningmastery.com/start-here/
 * https://www.freecodecamp.org/news/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da/
@@ -11,12 +14,12 @@
 * https://elitedatascience.com/learn-machine-learning
 * https://www.smashingmagazine.com/2018/09/getting-started-with-machine-learning/
 * https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-* 
-* 
-* 
-* 
-* 
-* 
+* https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
+* https://medium.com/@Ahmedrebai/my-first-machine-learning-program-8647051362b8
+* https://medium.com/@pknerd/how-i-wrote-my-first-machine-learning-program-in-3-days-9abbfdf7a223
+* https://copycoding.com/d/your-first-machine-learning-project-in-python-with-step-by-step-instructions
+* https://towardsdatascience.com/beginners-guide-to-machine-learning-with-python-b9ff35bc9c51
+* https://www.zeolearn.com/magazine/writing-your-first-machine-learning-code
 * 
 * 
 * 
