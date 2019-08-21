@@ -77,3 +77,21 @@
 * 
 * 
 
+
+Machine Learning / Neural Net
+https://www.youtube.com/watch?v=aircAruvnKk											------>>>> But what is a Neural Network? | Deep learning, chapter 1
+https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So ------>>>> Beginner Intro to Neural Networks 1
+https://www.youtube.com/watch?v=I74ymkoNTnw 										------>>>> HOW TO GET STARTED WITH MACHINE LEARNING!
+https://www.youtube.com/watch?v=JN6H4rQvwgY											------>>>> MIT 6.S191 (2018): Introduction to Deep Learning		
+
+
+https://hackernoon.com/deep-learning-vs-machine-learning-a-simple-explanation-47405b3eef08
+https://www.analyticsvidhya.com/blog/2017/04/comparison-between-deep-learning-machine-learning/
+https://www.zendesk.com/blog/machine-learning-and-deep-learning/
+https://www.geeksforgeeks.org/artificial-intelligence-vs-machine-learning-vs-deep-learning/
+https://skymind.com/wiki/ai-vs-machine-learning-vs-deep-learning
+https://www.guru99.com/machine-learning-vs-deep-learning.html
+
+
+
+
